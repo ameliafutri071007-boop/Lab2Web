@@ -31,47 +31,47 @@ Lab2Web/
 Tabel dibuat menggunakan `table`, `tr`, `th`, dan `td` untuk menampilkan NIM, nama, serta program studi. Data dikembangkan menjadi tiga baris mahasiswa.
 
 **Screenshot:** tambahkan hasil browser ke folder `screenshots`, lalu tampilkan dengan format:
-`![Tabel Data Mahasiswa](screenshots/tabel-mahasiswa.png.png)`
+`![Tabel Data Mahasiswa](schreenshoots/tabel-mahasiswa.png.png)`
 
 ### 2. Mengembangkan Struktur Tabel
 Tabel menggunakan `caption`, `thead`, `tbody`, dan `tfoot`. Atribut `colspan` digunakan untuk menggabungkan sel.
 
-**Screenshot:** `screenshots/struktur-tabel.png.png)`
+**Screenshot:** `schreenshoots/struktur-tabel.png.png)`
 
 ### 3. Membuat Form Registrasi
 Form berisi input nama, email, password, tanggal lahir, serta tombol Daftar dan Reset.
 
-**Screenshot:** `screenshots/form-registrasi.png.png)`
+**Screenshot:** `schreenshoots/form-registrasi.png.png)`
 
 ### 4. Radio Button dan Checkbox
 Radio button digunakan untuk pilihan jenis kelamin, sedangkan checkbox digunakan untuk memilih keahlian.
 
-**Screenshot:** `screenshots/radio-checkbox.png.png)`
+**Screenshot:** `schreenshoots/radio-checkbox.png.png)`
 
 ### 5. Select dan Textarea
 Select menyediakan pilihan program studi dan textarea digunakan untuk mengisi alamat.
 
-**Screenshot:** `screenshots/select-textarea.png.png)`
+**Screenshot:** `schreenshoots/select-textarea.png.png)`
 
 ### 6. Validasi Form
 Atribut `required`, `minlength`, `min`, `max`, dan tipe input digunakan untuk membantu memeriksa data sebelum dikirim.
 
-**Screenshot:** `screenshots/validasi-form.png.png)`
+**Screenshot:** `schreenshoots/validasi-form.png.png)`
 
 ### 7. Semantic HTML
 Halaman menggunakan `header`, `nav`, `main`, `section`, `article`, `aside`, dan `footer` untuk membentuk struktur yang bermakna.
 
-**Screenshot:** `screenshots/semantic-html.png.png)`
+**Screenshot:** `schreenshoots/semantic-html.png.png)`
 
 ### 8. Multimedia
 Elemen `audio` dan `video` disediakan. Letakkan file media yang digunakan ke folder `media` dengan nama `audio.mp3` dan `video.mp4`.
 
-**Screenshot:** `screenshots/multimedia.png.png)`
+**Screenshot:** `schreenshoots/multimedia.png.png)`
 
 ### 9. Proyek Mini Biodata Mahasiswa
 File `biodata.html` menggabungkan tabel, form, semantic HTML, validasi, dan multimedia.
 
-**Screenshot:** `screenshots/biodata.png.png)`
+**Screenshot:** `schreenshoots/biodata.png.png)`
 
 ## Catatan
 Screenshot pada repository perlu diisi dengan hasil praktik yang benar-benar diambil dari browser. File media juga perlu ditambahkan sendiri agar audio dan video dapat diputar. Form pada latihan ini merupakan contoh HTML; pengiriman data belum terhubung ke server.
