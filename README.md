@@ -14,3 +14,18 @@ Repository ini berisi latihan Praktikum 2 Pemrograman Web tentang HTML lanjutan,
 - Menerapkan semantic HTML.
 - Menambahkan elemen multimedia.
 - Menerapkan validasi form dasar.
+
+## Struktur Repository
+```text
+Lab2Web/
+├── index.html
+├── biodata.html
+├── media/
+│   ├── audio.mp3
+│   └── video.mp4
+├── screenshots/
+└── README.md
+```
+## Langkah Praktikum dan Hasil
+### 1. Membuat Tabel Data Mahasiswa
+Tabel dibuat menggunakan `table`, `tr`, `th`, dan `td` untuk menampilkan NIM, nama, serta program studi. Data dikembangkan menjadi tiga baris mahasiswa.
