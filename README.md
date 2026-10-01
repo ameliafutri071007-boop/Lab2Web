@@ -40,37 +40,37 @@ Tabel menggunakan `caption`, `thead`, `tbody`, dan `tfoot`. Atribut `colspan` di
 ### 3. Membuat Form Registrasi
 Form berisi input nama, email, password, tanggal lahir, serta tombol Daftar dan Reset.
 
-**Screenshot:** `schreenshoots/form-registrasi.png.png)`
+![form registrasi]schreenshoots/form-registrasi.png.png)`
 
 ### 4. Radio Button dan Checkbox
 Radio button digunakan untuk pilihan jenis kelamin, sedangkan checkbox digunakan untuk memilih keahlian.
 
-**Screenshot:** `schreenshoots/radio-checkbox.png.png)`
+![radio checkbox]schreenshoots/radio-checkbox.png.png)`
 
 ### 5. Select dan Textarea
 Select menyediakan pilihan program studi dan textarea digunakan untuk mengisi alamat.
 
-**Screenshot:** `schreenshoots/select-textarea.png.png)`
+![select textarea]schreenshoots/select-textarea.png.png)`
 
 ### 6. Validasi Form
 Atribut `required`, `minlength`, `min`, `max`, dan tipe input digunakan untuk membantu memeriksa data sebelum dikirim.
 
-**Screenshot:** `schreenshoots/validasi-form.png.png)`
+![validasi form]schreenshoots/validasi-form.png.png)`
 
 ### 7. Semantic HTML
 Halaman menggunakan `header`, `nav`, `main`, `section`, `article`, `aside`, dan `footer` untuk membentuk struktur yang bermakna.
 
-**Screenshot:** `schreenshoots/semantic-html.png.png)`
+![semantic html]schreenshoots/semantic-html.png.png)`
 
 ### 8. Multimedia
 Elemen `audio` dan `video` disediakan. Letakkan file media yang digunakan ke folder `media` dengan nama `audio.mp3` dan `video.mp4`.
 
-**Screenshot:** `schreenshoots/multimedia.png.png)`
+![multimedia]schreenshoots/multimedia.png.png)`
 
 ### 9. Proyek Mini Biodata Mahasiswa
 File `biodata.html` menggabungkan tabel, form, semantic HTML, validasi, dan multimedia.
 
-**Screenshot:** `schreenshoots/biodata.png.png)`
+![biodata]schreenshoots/biodata.png.png)`
 
 ## Catatan
 Screenshot pada repository perlu diisi dengan hasil praktik yang benar-benar diambil dari browser. File media juga perlu ditambahkan sendiri agar audio dan video dapat diputar. Form pada latihan ini merupakan contoh HTML; pengiriman data belum terhubung ke server.
