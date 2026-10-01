@@ -79,3 +79,5 @@ Screenshot pada repository perlu diisi dengan hasil praktik yang benar-benar dia
 Berdasarkan seluruh kegiatan Praktikum 2 HTML Lanjutan, dapat disimpulkan bahwa praktikum ini memberikan pemahaman tentang pembuatan tabel, form, penggunaan berbagai jenis input, semantic HTML, multimedia, dan validasi form. Seluruh materi diterapkan dalam pembuatan halaman web dan proyek mini biodata mahasiswa. Melalui praktikum ini, mahasiswa memperoleh pengalaman dalam menyusun halaman web yang lebih terstruktur dan memahami fungsi berbagai elemen HTML.
 
 ## Soal dan jawaban
+1. Apa fungsi <table> , <tr>, <th>, dan <td>
+  * Elemen <table> digunakan untuk membuat tabel, elemen <tr> membuat baris tabel, <th> membuat sel judul atau header, sedangkan <td> membuat sel yang berisi data
