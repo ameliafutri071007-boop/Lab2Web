@@ -45,7 +45,7 @@ Form berisi input nama, email, password, tanggal lahir, serta tombol Daftar dan 
 ### 4. Radio Button dan Checkbox
 Radio button digunakan untuk pilihan jenis kelamin, sedangkan checkbox digunakan untuk memilih keahlian.
 
-![radio checkbox](schreenshoots/radio-checkbox.png.png)`
+![radio checkbox](schreenshoots/radio.checkbox.png.png)
 
 ### 5. Select dan Textarea
 Select menyediakan pilihan program studi dan textarea digunakan untuk mengisi alamat.
