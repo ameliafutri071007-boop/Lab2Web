@@ -35,7 +35,7 @@ Tabel dibuat menggunakan `table`, `tr`, `th`, dan `td` untuk menampilkan NIM, na
 ### 2. Mengembangkan Struktur Tabel
 Tabel menggunakan `caption`, `thead`, `tbody`, dan `tfoot`. Atribut `colspan` digunakan untuk menggabungkan sel.
 
-!(schreenshoots/struktur-tabel.png.png)`
+![struktur tabel](schreenshoots/struktur-tabel.png.png)`
 
 ### 3. Membuat Form Registrasi
 Form berisi input nama, email, password, tanggal lahir, serta tombol Daftar dan Reset.
