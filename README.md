@@ -70,7 +70,7 @@ Elemen `audio` dan `video` disediakan. Letakkan file media yang digunakan ke fol
 ### 9. Proyek Mini Biodata Mahasiswa
 File `biodata.html` menggabungkan tabel, form, semantic HTML, validasi, dan multimedia.
 
-![biodata]schreenshoots/biodata.png.png)`
+![biodata](schreenshoots/biodata.png.png)`
 
 ## Catatan
 Screenshot pada repository perlu diisi dengan hasil praktik yang benar-benar diambil dari browser. File media juga perlu ditambahkan sendiri agar audio dan video dapat diputar. Form pada latihan ini merupakan contoh HTML; pengiriman data belum terhubung ke server.
