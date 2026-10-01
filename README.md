@@ -30,8 +30,7 @@ Lab2Web/
 ### 1. Membuat Tabel Data Mahasiswa
 Tabel dibuat menggunakan `table`, `tr`, `th`, dan `td` untuk menampilkan NIM, nama, serta program studi. Data dikembangkan menjadi tiga baris mahasiswa.
 
-**Screenshot:** tambahkan hasil browser ke folder `screenshots`, lalu tampilkan dengan format:
-`![Tabel Data Mahasiswa](schreenshoots/tabel-mahasiswa.png.png)`
+![Tabel Data Mahasiswa](schreenshoots/tabel-mahasiswa.png.png)`
 
 ### 2. Mengembangkan Struktur Tabel
 Tabel menggunakan `caption`, `thead`, `tbody`, dan `tfoot`. Atribut `colspan` digunakan untuk menggabungkan sel.
